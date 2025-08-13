@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Proyecto Ampliación Capacidad L1</name>
+	<gx:CascadingStyle kml:id="__managed_style_2A7CD0225839BC248190">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=00796b&amp;id=2365&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1701D0F05B39BC248190">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=00796b&amp;id=2365&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F6661ADD439BC248190">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1701D0F05B39BC248190</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2A7CD0225839BC248190</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_266B686E2739BC233E13">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=00796b&amp;id=2365&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F4184F26439BC233E13">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=00796b&amp;id=2365&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F26D4804539BC233E13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F4184F26439BC233E13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_266B686E2739BC233E13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="06E4F99A2639BC20BA1B">
+		<name>Patio de Maniobras Bayóvar</name>
+		<LookAt>
+			<longitude>-76.98727519856217</longitude>
+			<latitude>-11.95641718454322</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>754.4526059039785</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.98676152019513,-11.95720385940111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="030DEFAEFA39BC1FF47F">
+		<name>Estación Bayóvar</name>
+		<LookAt>
+			<longitude>-76.98744195</longitude>
+			<latitude>-11.95988845</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1329.416021584964</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.98745886882116,-11.9597850026919,-1.414648398423424e-09</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A4DD8DEAB39BC1F05C1">
+		<name>Estación Santa Rosa</name>
+		<LookAt>
+			<longitude>-76.9935033</longitude>
+			<latitude>-11.9681412</latitude>
+			<altitude>265.6373642554584</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>824.7063493960882</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.99349636165147,-11.9681853189377,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="087D331A6539BC1E3CA8">
+		<name>Estación San Martín</name>
+		<LookAt>
+			<longitude>-77.00021749999999</longitude>
+			<latitude>-11.9749345</latitude>
+			<altitude>243.0865906426878</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>824.6831784642744</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.00021070513051,-11.97492452949513,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0290D7B85839BC1D7EB0">
+		<name>Estación San Carlos</name>
+		<LookAt>
+			<longitude>-77.00680285000001</longitude>
+			<latitude>-11.9849315</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1256.740443907367</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.00673886837957,-11.98495888178708,-7.073241992117119e-10</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00ADA3AE9039BC1CB1F1">
+		<name>Estación Los Postes</name>
+		<LookAt>
+			<longitude>-77.00995283193011</longitude>
+			<latitude>-11.99627099268199</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>244.4572153129621</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.00996769999999,-11.9962595,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="046CC9730839BC1B4F69">
+		<name>Estación Los Jardines</name>
+		<LookAt>
+			<longitude>-77.00536426649003</longitude>
+			<latitude>-12.00691876981134</latitude>
+			<altitude>-1.414648398423424e-09</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>312.6819117152127</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.00537679999999,-12.0069172,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B71CECAB739BC1A73B9">
+		<name>Estación Pirámide del Sol</name>
+		<LookAt>
+			<longitude>-77.00253976986305</longitude>
+			<latitude>-12.01806757374045</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>432.367502366601</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.00266085161473,-12.01803931251174,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02CB5ED7F739BC19665F">
+		<name>Estación Caja de Agua</name>
+		<LookAt>
+			<longitude>-77.01107036418527</longitude>
+			<latitude>-12.02782550732408</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>530.8323992654267</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.01118523906345,-12.02779411455362,-7.073241992117119e-10</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08F32ABF4F39BC18556F">
+		<name>Estación Presbítero Maestro</name>
+		<LookAt>
+			<longitude>-77.01167330000003</longitude>
+			<latitude>-12.0417022</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1004.70324982022</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.01172446099487,-12.0417115816042,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06040B263639BC1706F7">
+		<name>Estación El Ángel</name>
+		<LookAt>
+			<longitude>-77.00973036345266</longitude>
+			<latitude>-12.04603045036475</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>272.7497559065812</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.00977897512999,-12.04604318462578,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FCD01873539BBC5C3A1">
+		<name>Estación Miguel Grau</name>
+		<LookAt>
+			<longitude>-77.01290314023609</longitude>
+			<latitude>-12.0543061405912</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>385.3459196287321</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.01300616271236,-12.05449684738523,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0583C7407539BBC806DC">
+		<name>Estación 28 de Julio (L1)</name>
+		<LookAt>
+			<longitude>-77.01332044883854</longitude>
+			<latitude>-12.05970453566954</latitude>
+			<altitude>-2.121972597635136e-09</altitude>
+			<heading>-1.253347386460412</heading>
+			<tilt>16.37099893438196</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>581.0582283025193</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.01327003349246,-12.06026509163147,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C6F909D9C39BBCC6C49">
+		<name>Estación Gamarra</name>
+		<LookAt>
+			<longitude>-77.01228348567896</longitude>
+			<latitude>-12.06562881621968</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>322.9326193360146</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.01227320713045,-12.06560368751028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F83D9C84839BBCEAF81">
+		<name>Estación Arriola</name>
+		<LookAt>
+			<longitude>-77.011624448471</longitude>
+			<latitude>-12.07466732068283</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>394.5403618657247</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.01110705179737,-12.07474959840706,-1.414648398423424e-09</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EE4499ADE39BBD04DE3">
+		<name>Estación La Cultura</name>
+		<LookAt>
+			<longitude>-77.00344820670554</longitude>
+			<latitude>-12.08628042284267</latitude>
+			<altitude>-1.414648398423424e-09</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>779.1586847206422</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.00373094560328,-12.08695704869571,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0915C5D5F439BBEE9D93">
+		<name>Estación San Borja Sur</name>
+		<LookAt>
+			<longitude>-77.00198580045679</longitude>
+			<latitude>-12.10023640098287</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>537.7857787410139</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.00177694490469,-12.1006398091649,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02C50FBB4E39BBEFD82C">
+		<name>Estación Angamos</name>
+		<LookAt>
+			<longitude>-77.00036878970745</longitude>
+			<latitude>-12.11049448021684</latitude>
+			<altitude>-1.414648398423424e-09</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>719.1651848834605</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6661ADD439BC248190</styleUrl>
+		<Point>
+			<coordinates>-77.0003572,-12.1103841,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07DD5F02C839BC0D6351">
+		<name>Estación Cabitos</name>
+		<LookAt>
+			<longitude>-77.0003481</longitude>
+			<latitude>-12.12708144999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1137.713781556565</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-77.00034085592851,-12.12706374396583,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D38BDBB2939BC0E9887">
+		<name>Estación Ayacucho</name>
+		<LookAt>
+			<longitude>-76.99696750902135</longitude>
+			<latitude>-12.13471982151685</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>428.5834343208074</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.99697296694764,-12.13472115550954,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E1174A81539BC0F95C0">
+		<name>Estación Jorge Chávez</name>
+		<LookAt>
+			<longitude>-76.99111601909456</longitude>
+			<latitude>-12.14245784749999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>279.7618290324346</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.99108929798305,-12.14246220138126,-1.414648398423424e-09</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B39CD428639BC10A91B">
+		<name>Estación Atocongo</name>
+		<LookAt>
+			<longitude>-76.97959226418588</longitude>
+			<latitude>-12.15085970656337</latitude>
+			<altitude>1.414648398423424e-09</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>207.5189745623688</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.97946804914601,-12.15085001779407,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C50B5581C39BC116FC7">
+		<name>Estación San Juan</name>
+		<LookAt>
+			<longitude>-76.96537604963538</longitude>
+			<latitude>-12.15656210734914</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>363.2994619241582</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.9651377627474,-12.15672154906388,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02DBE9381139BC127704">
+		<name>Estación Maria Auxiliadora</name>
+		<LookAt>
+			<longitude>-76.95667581034151</longitude>
+			<latitude>-12.16079025310863</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>325.5994550556784</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.95654518451558,-12.16084396588263,-1.414648398423424e-09</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="010275014539BC136CD9">
+		<name>Estación Villa Maria</name>
+		<LookAt>
+			<longitude>-76.95033601287493</longitude>
+			<latitude>-12.16913159134273</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>507.372291590322</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.95043617575405,-12.16913001209676,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BCAE56A4439BC143D13">
+		<name>Estación Pumacahua</name>
+		<LookAt>
+			<longitude>-76.94686533581239</longitude>
+			<latitude>-12.18230277098721</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>255.9534958827574</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.94689141660918,-12.18225417401767,-7.073241992117119e-10</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01CD9167DF39BC152260">
+		<name>Estación Parque Industrial</name>
+		<LookAt>
+			<longitude>-76.93990149968148</longitude>
+			<latitude>-12.19632490322103</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>484.2077483550102</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.94008653120662,-12.19623899688162,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05604702DD39BC15ED8B">
+		<name>	Estación Villa El Salvador</name>
+		<LookAt>
+			<longitude>-76.933786355053</longitude>
+			<latitude>-12.20686662189822</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>344.9458246683759</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.93353809333567,-12.20699009339204,-7.073241992117119e-10</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DFDE4EB7E39BC21EF48">
+		<name>Patio Taller Villa El Salvador</name>
+		<LookAt>
+			<longitude>-76.93121039798525</longitude>
+			<latitude>-12.20944515568803</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1230.649832434478</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F26D4804539BC233E13</styleUrl>
+		<Point>
+			<coordinates>-76.93111633921932,-12.20887441456813,-1.414648398423424e-09</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
